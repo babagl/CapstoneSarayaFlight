@@ -1,0 +1,109 @@
+{
+  "bookingList": [
+    {
+      "productName": "Baba Galle",
+      "category": "SIMPLE_TICKET",
+      "freshness": "one way ticket",
+      "price": 25000,
+      "comment": "it's a simple travel one tickets",
+      "date": "2022-06-08T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "ndongo dieng",
+      "category": "VIP",
+      "freshness": "round-trip ticket",
+      "price": 250000,
+      "comment": "egyte dakar - dakar egypte",
+      "date": "2022-05-31T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Ousseynou Thiaw",
+      "category": "presidential_boxes",
+      "freshness": "round-trip ticket",
+      "price": 12000,
+      "comment": "loges presidentiels dou aay foo",
+      "date": "2022-05-31T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Fatoumata Badiane",
+      "category": "SIMPLE_TICKET",
+      "freshness": "round-trip ticket",
+      "price": 1200,
+      "comment": "simple travel",
+      "date": "2022-06-01T23:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Fatima Beye",
+      "category": "presidential_boxes",
+      "freshness": "round-trip ticket",
+      "price": 250000,
+      "comment": "I don't know",
+      "date": "2022-06-02T23:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Khadija Diangar",
+      "category": "VIP",
+      "freshness": "one way ticket",
+      "price": 15000,
+      "comment": "aller retour",
+      "date": "2022-06-29T23:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Ndeye Seyni Sylla",
+      "category": "VIP",
+      "freshness": "round-trip ticket",
+      "price": 12000,
+      "comment": "Dakar new york",
+      "date": "2022-06-09T23:00:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "Abdoulaye Sall",
+      "category": "SIMPLE_TICKET",
+      "freshness": "round-trip ticket",
+      "price": 12000,
+      "comment": "Bon voyage",
+      "date": "2022-06-30T23:00:00.000Z",
+      "id": 11
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "Abdoulaye Sall",
+      "email": "sall.abdoulaye@gmail.com",
+      "password": "Secret",
+      "mobile": 778532104,
+      "id": 1
+    },
+    {
+      "fullName": "baba Galle",
+      "email": "gallebaba@gmail.com",
+      "password": "passer",
+      "mobile": 123456789,
+      "id": 2
+    },
+    {
+      "fullName": "anna Barry",
+      "email": "annabarrynho@gmail.com",
+      "password": "passer",
+      "mobile": 781240620,
+      "id": 3
+    },
+    {
+      "fullName": "Mamy Badiane",
+      "email": "fatouBadiane@gmail.com",
+      "password": "12345",
+      "mobile": 1234567,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
